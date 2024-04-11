@@ -4,7 +4,7 @@
 <br>
 ![preview](./Foodie2Website.PNG)
  
- - Website d elanchonete com cardápio, endereço e contato
+ - Website de lanchonete com cardápio, endereço e contato
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
