@@ -1,7 +1,7 @@
 # Website de lanchonete
 
 ![preview](./FoodieWebsite.PNG)
-br
+<br>
 ![preview](./Foodie2Website.PNG)
  
  - Website d elanchonete com cardápio, endereço e contato
